@@ -32,7 +32,9 @@ function deleteListItem(){
 }
 $('#list').sortable();
 
-if ($('#list').val())
+//update a list item?
+// if ($('#list').val())
+
 
 }
 
